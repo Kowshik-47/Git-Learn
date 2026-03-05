@@ -6,4 +6,7 @@ import print_good_morning
 print_hello_name("kowshik")
 print("Changed file contents by Kowshik")
 
+print("Good afternoon")
+
+
 print("Changed the main file for first time")
